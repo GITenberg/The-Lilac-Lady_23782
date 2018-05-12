@@ -1,0 +1,27 @@
+_repo: The-Lilac-Lady_23782
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: MacArthur, Ruth Brown
+    alias: Brown, Ruth Alberta
+    birthdate: 1881
+    gutenberg_agent_id: '9237'
+    url: http://www.gutenberg.org/2009/agents/9237
+description: ''
+gutenberg_issued: '2007-12-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23782'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sisters -- Juvenile fiction'
+- !lcsh 'People with disabilities -- Juvenile fiction'
+- !lcc 'PZ'
+title: The Lilac Lady
+url: http://www.gutenberg.org/ebooks/23782
