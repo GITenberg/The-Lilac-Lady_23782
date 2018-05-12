@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '9237'
     url: http://www.gutenberg.org/2009/agents/9237
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23782#The-Lilac-Lady
 gutenberg_issued: '2007-12-09'
 gutenberg_type: Text
 identifiers:
